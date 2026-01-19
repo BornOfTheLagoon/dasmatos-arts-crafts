@@ -1,0 +1,58 @@
+/* Global */
+*{
+    font-family: Helvetica;
+}
+
+/* Bold */
+.bold{
+    font-weight: bold;
+}
+
+/* Banner Header */
+.banner{
+    background-image: url('../images/pattern.jpeg');
+}
+.banner h1{
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+/* Brushes Section */
+.brushes h2{
+    background-color: mediumspringgreen;
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+}
+
+/* Frames Section */
+.frames h2{
+    background-color: lightcoral;
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+}
+
+/* Paint Section */
+.paint h2{
+    background-color: skyblue;
+    font-weight: bold;
+    font-size: 32px;
+    color: white;
+}
+
+
+/* Pricing */
+.pricing{
+    font-weight: bold;
+    color: blue;
+}
+
+
+
+
+
+
+
